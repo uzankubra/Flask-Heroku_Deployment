@@ -1,0 +1,6 @@
+flask
+scikit-learn
+pandas
+numpy
+matplotlib
+python==3.10
